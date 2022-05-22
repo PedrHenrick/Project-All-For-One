@@ -1,8 +1,12 @@
+# Project-All-For-One
+
+Projeto foi feito com o intuito de praticar todos os comando básicos do SQL
+
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem vindo ao repositório do projeto **All For One**🤺!
 
 ## Esse projeto foi feito com o intuito de praticar todos os comando básicos do SQL, para isso, utilizaremos o banco de dados `Northwind`.
 
-## **Tecnologias utilizadas:**
+## **Tecnologias utilizada:**
 
 > MySQL
 > 
@@ -22,7 +26,29 @@
 
 4 - Logo depois entre na pasta clonada utilizando o comando `cd all-for-one`
 
-E pronto! Já temos nossa aplicação na sua máquina. Agora você já pode fechar o terminal e abrir a pasta que está na área de trabalho e em seguida a pasta com o nome do projeto, lá você verá arquivos com o nome `desafioX.sql` onde `X` é o número do exercício listado no próximo tópico.
+E pronto! Já temos nossa aplicação na sua máquina. Agora você já pode fechar o terminal e abrir a pasta que está na área de trabalho e em seguida a pasta com o nome do projeto, lá você verá arquivos com o nome `desafioX.sql` onde `X` é o número dos exercícios listados mais a frente.
+
+## O que fazer quando encontrar erros:
+
+### Caso encontre algum erro referente a sintaxe ou funcionamento do mesmo, abra uma `Issue`
+
+1 - Para iniciarmos, clique em **issues** como na foto abaixo:
+
+![issue](./images/issue.png)
+
+2 - Após isso, clique em **new issue:**
+
+![new_issue](./images/new_issue.png)
+
+3 - Agora adicione um título sobre problema encontrado, adicione uma descrição mostrando como ocorreu o erro e por fim clique no botão **submit new issue**:
+
+![issue_form](./images/issue_form.png)
+
+E pronto, o problema já foi documentado e será resolvido o mais rápido possível. 
+
+![issue_post](./images/issue_post.png)
+
+Temos também a opção de utilizar o campo de feedback encontrado no fim desse arquivo!!
 
 ## **Desafios:**
 
@@ -88,4 +114,4 @@ E pronto! Já temos nossa aplicação na sua máquina. Agora você já pode fech
 
 ---
 
-### Deixe seu feedback neste [formulário](https://forms.gle/ZJjEZNEAuc9QUauY9)!
+### Deixe seu feedback neste <span>[formulário](https://forms.gle/ZJjEZNEAuc9QUauY9)</span>!
