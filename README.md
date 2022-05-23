@@ -24,9 +24,9 @@
   
   * 2 - Em seguida utilize o comando `cd project-all-for-one` para entrar na pasta criada
   
-  * 3 - Dentro da pasta, no terminal, utilize o comando `git clone git@github.com:PedrHenrick/all-for-one.git` para clonar a pasta do repositório
+  * 3 - Dentro da pasta, no terminal, utilize o comando `git clone git@github.com:PedrHenrick/Project-All-For-One.git` para clonar a pasta do repositório
   
-  * 4 - Logo depois entre na pasta clonada utilizando o comando `cd all-for-one`
+  * 4 - Logo depois entre na pasta clonada utilizando o comando `cd Project-All-For-One`
   
   E pronto! Já temos nossa aplicação na sua máquina. Agora você já pode fechar o terminal e abrir a pasta que está na área de trabalho e em seguida a pasta com o nome do projeto, lá você verá arquivos com o nome `desafioX.sql` onde `X` é o número dos exercícios listados no tópico <a href="#desafios">desafios</a>.
   </h3>
