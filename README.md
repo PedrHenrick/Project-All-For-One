@@ -1,7 +1,3 @@
-# Project-All-For-One
-
-Projeto foi feito com o intuito de praticar todos os comando básicos do SQL
-
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Bem vindo ao repositório do projeto **All For One**🤺!
 
 ### Esse foi o meu primeiro contato com os comandos do MySQL. Fizemos esse projeto na trybe com o intuito de praticar todos os comando básicos do SQL, Utilizando o banco de dados `Northwind`.
@@ -65,7 +61,9 @@ Projeto foi feito com o intuito de praticar todos os comando básicos do SQL
 <details>
   <summary><strong>O que fazer após o code-review ✅</strong></summary>
   <h3>
-    Após o seu review sobre tudo o que foi abordado, deixo como sugestão responder este <span id="form"><a href="https://forms.gle/ZJjEZNEAuc9QUauY9">formulário de feedback</a></span>, desenvolvido por mim para auxiliar na melhoria desse e de outros projetos.
+    Após o seu review sobre tudo o que foi abordado, deixo como sugestão responder este <span id="form"><a href="https://forms.gle/ZJjEZNEAuc9QUauY9" target="_blank">formulário de feedback</a></span>, desenvolvido por mim para auxiliar na melhoria desse e de outros projetos.
+  </h3>
+  <h3>
     Aguardo sua resposta, obrigado!
   </h3>
 </details>
