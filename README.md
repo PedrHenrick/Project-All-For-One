@@ -14,7 +14,7 @@
 <details>
   <summary><strong>Como clonar os arquivos 📝</strong></summary>
   
-<h3>
+<h4>
   Para que essa aplicação funcione na sua máquina, será necessário seguir os seguintes passos:
   
   * 1 - Abra o CMD/terminal de comando do seu sistema através da pesquisa e faça os seguintes passo:
